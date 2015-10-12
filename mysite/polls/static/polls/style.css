@@ -1,0 +1,14 @@
+h1 {
+    font-family: cursive;
+    color: blue;
+}
+
+
+li a {
+    color: black;
+    font-family: "Comic Sans MS";
+
+}
+body {
+    background: white url("images/background.jpeg") no-repeat right top;
+}
